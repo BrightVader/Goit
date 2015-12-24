@@ -3,5 +3,5 @@ package MusicStore;
 /**
  * Created by XXX on 24.12.2015.
  */
-public class Trumpet {
+public class Trumpet extends Instrument {
 }

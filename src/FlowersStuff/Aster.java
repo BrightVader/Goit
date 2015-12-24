@@ -3,5 +3,5 @@ package FlowersStuff;
 /**
  * Created by XXX on 24.12.2015.
  */
-public class Aster extends Flowers {
+public class Aster extends Flower {
 }

@@ -3,5 +3,5 @@ package FoldersAndFiles;
 /**
  * Created by XXX on 24.12.2015.
  */
-public class ImageFile {
+public class ImageFile extends File {
 }
